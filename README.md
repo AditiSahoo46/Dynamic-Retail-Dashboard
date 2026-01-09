@@ -224,7 +224,7 @@ The repository includes:
 * Visual examples for each analysis
 * Screenshots of the final interactive dashboard
 
-![Dashboard](https://github.com/user-attachments/assets/3a2f15c3-5f29-4286-b14e-0bd35f07fed6)
+<img width="810" height="569" alt="image" src="https://github.com/user-attachments/assets/41510bd2-1039-4d75-8989-28bdd7eeec80" />
 
 
 ---
