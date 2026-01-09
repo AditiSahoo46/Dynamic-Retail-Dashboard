@@ -229,5 +229,3 @@ The repository includes:
 
 ---
 
-
-Just tell me 👍
